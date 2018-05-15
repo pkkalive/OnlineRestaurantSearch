@@ -7,3 +7,5 @@ Step 1: Pull the repository
 Step 2: goto repository and run `npm install`
 
 STep 3: run `npm start`. Yuhu !! Enjoy the Search !!
+
+Note: Zomato ApI allows only 1000 calls/day
